@@ -77,5 +77,3 @@ Please note that these instructions are just a sample, and depending on the spec
 ##Contributing
 
 Thank you for your interest in contributing to the Book Recommendation System project! Your contributions can help enhance the system's functionality and improve the book. 
-
-
